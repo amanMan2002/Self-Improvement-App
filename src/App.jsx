@@ -1,14 +1,14 @@
 import { useState } from 'react'
 
 import './App.css'
-import SignIn from './components/SignIn.jsx'
+import SignUp from './components/SignUp.jsx'
 
 function App() {
   
 
   return (
     <>
-    <SignIn />
+    <SignUp />
     </>
   )
 }

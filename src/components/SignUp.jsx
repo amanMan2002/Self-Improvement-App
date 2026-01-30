@@ -13,7 +13,7 @@ function SignIn() {
         <div>
         <h1 style={{ textAlign: "center" }}>Goon Guard</h1>
         <form onSubmit={handleSubmit} style={{ maxWidth: 300, margin: "2rem auto", padding: "2rem", background:"#5bc0eb", borderRadius: 8, boxShadow: "0 2px 8px rgba(0,0,0,0.1)" }}>
-      <h2 style={{ textAlign: "center" }}>Sign In</h2>
+      <h2 style={{ textAlign: "center" }}>Sign Up</h2>
       <input
         type="text"
         placeholder="Username"
